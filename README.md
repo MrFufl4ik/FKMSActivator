@@ -11,7 +11,7 @@ Compability:
   * Windows 8.1
 
 Download:
- For download use a [Release list](https://github.com/MrFufl4ik/FKMSActivator/releases), and download latest version.
+ For download use a [release list](https://github.com/MrFufl4ik/FKMSActivator/releases), and download latest version.
 
 Using:
   1. Run `FKMSActivator.exe`
